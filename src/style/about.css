@@ -1,0 +1,18 @@
+.social-icons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.f-icon{
+    color: blue;
+    font-size: 35px;
+    
+}
+.in-icon{
+    color: rgb(36, 36, 199);
+    font-size: 35px;
+}
+
+.g-icon{
+    color: black;
+    font-size: 35px;
+}
