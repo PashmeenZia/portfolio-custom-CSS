@@ -12,10 +12,10 @@ function Hero(){
             </div>
             {/* right */}
             <div className="hero-right-div">
-                <h1 className="header-title">I'm PashmeenZia 
+                <h1 className="header-title">I am PashmeenZia 
                     Web-Developer
                 </h1>
-                <p className="head-des">I,m housewife and have studied B.COM at Karachi University. Currently,I study at Governor House. I've successfully completed course Html,Css and Typescript and now I'm preparing Next.js.Having successfull finished my first quarter.I continue to grow my journey as a Frontend Development.</p>
+                <p className="head-des">I am housewife and have studied B.COM at Karachi University. Currently I study at Governor House. I have successfully completed course Html Css and Typescript and now I am preparing Next.js.Having successfull finished my first quarter.I continue to grow my journey as a Frontend Development.</p>
                 <button className="button">Hire Me</button>
             </div>
            </div>
